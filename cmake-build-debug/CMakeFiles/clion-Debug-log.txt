@@ -1,0 +1,16 @@
+"C:\Program Files\JetBrains\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "C:\Users\nikit\OneDrive\Рабочий стол\laba--16" -B "C:\Users\nikit\OneDrive\Рабочий стол\laba--16\cmake-build-debug"
+-- The C compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/JetBrains/CLion 2023.2.1/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+CMake Error at CMakeLists.txt:10 (add_subdirectory):
+  The source directory
+
+    C:/Users/nikit/OneDrive/Рабочий стол/laba--16/libs
+
+  does not contain a CMakeLists.txt file.
+
+
+-- Configuring incomplete, errors occurred!
